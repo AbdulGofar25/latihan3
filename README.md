@@ -48,5 +48,5 @@ pilih file baru,open file latihan3.py, lalu bukka file tersebut<br />
 ![Gambar 19](gambar/ss19.png)<br />
 Jika ingin menjalankannya klik Run module maka tampilannya akan seperti ini<br />
 ![Gambar 20](gambar/ss20.png)<br />
-## Sekian dan Terumakasihhh
+## Sekian dan Terimakasihhh
 
